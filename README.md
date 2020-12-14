@@ -27,3 +27,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+被删除的配置：
+"@vue/eslint-config-standard": "^5.1.2",
